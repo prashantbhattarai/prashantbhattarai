@@ -6,7 +6,7 @@ I’m a Data Science undergraduate at Texas State University passionate about bu
 - Learning advanced machine learning, predictive analytics, and AI applications
 
 ## 🌱 Skills
-Python | C++ | SQL | pandas | NumPy | Matplotlib | Git | Jupyter Notebook | HTML/CSS/JS | Arduino & IoT | Data Visualization | Machine Learning | AI | IoT Integration
+Python | C++ | SQL | pandas | NumPy | Matplotlib | Git | Jupyter Notebook | HTML/CSS/JS | Data Visualization | Machine Learning | AI 
 
 ## 💼 Projects
 Check my pinned repositories below for detailed projects:
